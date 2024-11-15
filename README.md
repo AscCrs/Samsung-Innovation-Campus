@@ -1,4 +1,4 @@
-![Banner SIC](SamsungUDEM.png)
+![Banner SIC](./Notas%20de%20clase/Imagenes/SamsungUDEM.png)
 <h1 style="text-align: center;">Samsung Innovation Campus AI</h1>
 
 ## ¿Qué es Samsung Innovation Campus?
@@ -10,7 +10,7 @@ En esta edición, la Universidad de Monterrey (UDEM) colabora en el programa, of
 > - Unicamente se llevará registro de las notas tomadas por el estudiante.
 > - Las prácticas igualmente presentadas, también son hechas en su totalidad por el estudiante.
 ## Ejecución de las prácticas
-El desarrollo de las prácticas se llevo a cabo utilizando `Python 3`, por lo que resulta indispensable la instalación del mismo para poder ejecutar las prácticas.****
+El desarrollo de las prácticas se llevo a cabo utilizando `Python 3`, por lo que resulta indispensable la instalación del mismo para poder ejecutar las prácticas.
 
 Los paquetes utilizados de `Python` son los siguientes:
 - `Numpy`
