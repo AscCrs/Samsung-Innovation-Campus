@@ -6,7 +6,8 @@ Es una iniciativa global de Samsung dirigida a estudiantes universitarios de ins
 
 En esta edición, la Universidad de Monterrey (UDEM) colabora en el programa, ofreciendo formación en Inteligencia Artificial y Liderazgo a los participantes. 
 
-> [!NOTE] El presente repositorio, fue creado con la intención de llevar un registro del avance obtenido durante el curso por cuenta propia.
+> [!IMPORTANT]
+> El presente repositorio, fue creado con la intención de llevar un registro del avance obtenido durante el curso por cuenta propia.
 > - Unicamente se llevará registro de las notas tomadas por el estudiante.
 > - Las prácticas igualmente presentadas, también son hechas en su totalidad por el estudiante.
 ## Ejecución de las prácticas
